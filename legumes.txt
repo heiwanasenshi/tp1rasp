@@ -1,3 +1,4 @@
 Oranges
 pommes
 poires
+fraises
